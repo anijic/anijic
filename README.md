@@ -8,7 +8,7 @@ I turn operational chaos into insight. Chemical engineering rigor applied to dat
 - **Supply Chain:** Demand forecasting, inventory optimization, OEE dashboards → 20–30% cost savings
 
 ## Featured Projects
-- [SaaS Churn Predictor](#) – Reduce churn with RFM + ML
+- [SaaS Churn Predictor](https://github.com/anijic/saas_churn_predictor) – Reduce churn with RFM + ML
 - [Supply Chain Inventory Optimizer](#) – Forecast demand, cut waste
 - [Manufacturing OEE Dashboard](#) – Root-cause downtime analysis
 
